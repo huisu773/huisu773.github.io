@@ -1,3 +1,7 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: "https://huisu773.github.io/"
+title: "绘素的网站"
+theme: "PaperMod"
+
+params:
+  themeToggle:
+    enable: true
