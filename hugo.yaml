@@ -32,6 +32,10 @@ outputs:
     - RSS
     - JSON
 
+services:
+  googleAnalytics:
+    id: G-0D9DSDTQM4
+
 menu:
   main:
     - identifier: search
