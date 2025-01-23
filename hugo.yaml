@@ -3,9 +3,40 @@ title: "绘素的网站"
 theme: "PaperMod"
 
 params:
-  themeToggle:
-    enable: true
-  comments:
-    giscus:
-      enable: true
+  defaultTheme: auto
+  themeToggle: true
+  sectionPagesMenu: main
+  showtoc: true
+  ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
+  comments: true
+  outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON
+  taxonomies:
+    tag: "tags"
+    category: "categories"
+
+menu:
+  main:
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+    # - identifier: categories
+    #   name: Categories
+    #   url: /categories/
+    #   weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: archive
+      name: Archive
+      url: /archives/
+      weight: 40
+
+
     

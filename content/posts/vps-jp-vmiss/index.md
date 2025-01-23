@@ -2,6 +2,8 @@
 date: '2025-01-23T19:21:18+08:00'
 draft: false
 title: 'VPS简评：Vmiss大阪IIJ，线路和 IP 都很不错'
+categories: [VPS]
+tags: [VPS,日本VPS,VPS简评]
 ---
 
 ## 简评
@@ -10,7 +12,7 @@ Vmiss 日本大阪 IIJ VPS，起售价 5 加元，500G 流量双向计费，三�
 
 ![价格](./vps.png)
 
-## IP 测试
+## IP 质量
 
 虽然 IP 是广播IP，类型是机房，但非常干净，风险极低，几乎所有非强制点击的 Cloudflare 验证都可以直接跳过，无需手动点击验证。
 
@@ -24,12 +26,7 @@ Vmiss 日本大阪 IIJ VPS，起售价 5 加元，500G 流量双向计费，三�
 
 ### IP 流媒体解锁检测
 
-```
- ** 正在测试 IPv4 解锁情况
---------------------------------
- ** 您的网络为: VMISS (167.88.*.*)
-
-
+```yaml
 ============[ Multination ]============
  Dazn:                                  Yes (Region: JP)
  Disney+:                               Yes (Region: JP)
