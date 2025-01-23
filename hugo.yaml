@@ -1,5 +1,5 @@
 baseURL: "https://huisu773.github.io/"
-title: "绘素的网站"
+title: "绘素的博客"
 theme: "PaperMod"
 
 params:
@@ -25,6 +25,9 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
+  homeInfoParams:
+    Title: "绘素的博客"
+    Content: "Welcome!"
 
 outputs:
   home:
@@ -42,10 +45,10 @@ menu:
       name: Search
       url: /search/
       weight: 10
-    # - identifier: categories
-    #   name: Categories
-    #   url: /categories/
-    #   weight: 20
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
     - identifier: tags
       name: Tags
       url: /tags/
