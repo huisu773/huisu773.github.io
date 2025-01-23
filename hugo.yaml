@@ -12,11 +12,6 @@ params:
   comments: true
   busuanzi:
     enable: true
-  outputs:
-    home:
-      - HTML
-      - RSS
-      - JSON
   taxonomies:
     tag: "tags"
     category: "categories"
@@ -29,6 +24,12 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 menu:
   main:
