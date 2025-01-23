@@ -7,6 +7,7 @@ params:
   themeToggle: true
   sectionPagesMenu: main
   showtoc: true
+  tocopen: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
   comments: true
