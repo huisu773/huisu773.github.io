@@ -5,3 +5,7 @@ theme: "PaperMod"
 params:
   themeToggle:
     enable: true
+  comments:
+    giscus:
+      enable: true
+    

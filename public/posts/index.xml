@@ -10,11 +10,11 @@
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VPS测评：Vmiss大阪IIJ，线路与IP兼得的机器</title>
-      <link>http://localhost:1313/posts/vps-jp-vmiss/vps-jp-vmiss/</link>
+      <link>http://localhost:1313/posts/vps-jp-vmiss/</link>
       <pubDate>Thu, 23 Jan 2025 19:21:18 +0800</pubDate>
-      <guid>http://localhost:1313/posts/vps-jp-vmiss/vps-jp-vmiss/</guid>
+      <guid>http://localhost:1313/posts/vps-jp-vmiss/</guid>
       <description>&lt;p&gt;Vmiss 日本大阪&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;ip质量检测&#34; loading=&#34;lazy&#34; src=&#34;./ip.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;ip质量检测&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/vps-jp-vmiss/ip.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ip解锁检测&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; ** 正在测试 IPv4 解锁情况
 --------------------------------
