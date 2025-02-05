@@ -12,7 +12,7 @@ params:
   ShowPostNavLinks: true
   comments: true
   busuanzi:
-    enable: true
+    enable: false
   taxonomies:
     tag: "tags"
     category: "categories"
