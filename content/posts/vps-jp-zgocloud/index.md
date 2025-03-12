@@ -6,6 +6,8 @@ categories: [VPS]
 tags: [VPS,日本VPS,VPS简评]
 ---
 
+## 简评
+
 年付 28 USD 的大阪 VPS，每月 700 G 双向流量，峰值带宽 200 Mbps，三网 IIJ 线路，上游xTom，移动电信可用，联通不可用。算是有性价比的日本线路产品。
 
 ## IP 质量
