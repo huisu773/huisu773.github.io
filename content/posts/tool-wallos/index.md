@@ -2,8 +2,8 @@
 date: '2025-03-12'
 draft: false
 title: '部署 Wallos 管理订阅并添加 https 访问'
-categories: [VPS]
-tags: [VPS,日本VPS,VPS简评]
+categories: [Tool]
+tags: [Tool,自部署]
 ---
 
 
