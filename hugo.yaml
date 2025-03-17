@@ -1,5 +1,6 @@
 baseURL: "https://huisu773.github.io/"
 title: "绘素的博客"
+description: "这是我的个人博客，我会在这里分享关于工具软件和虚拟主机的相关内容。"
 theme: "PaperMod"
 
 params:
@@ -27,7 +28,7 @@ params:
         keys: ["title", "permalink", "summary", "content"]
   homeInfoParams:
     Title: "绘素的博客"
-    Content: "Welcome!"
+    Content: "Welcome！这是我的个人博客，我会在这里分享关于工具软件和虚拟主机的相关内容。"
 
 outputs:
   home:
