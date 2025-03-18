@@ -1,7 +1,7 @@
 ---
 date: '2025-03-17'
 draft: false
-title: 'VPS 简评：DMIT 东京 CN2 GIA 线路 VPS'
+title: 'VPS 简评：DMIT TYO.Pro.TINY 东京 CN2 GIA VPS'
 categories: [VPS]
 tags: [VPS,日本VPS,VPS简评]
 ---

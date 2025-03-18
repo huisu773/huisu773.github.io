@@ -1,7 +1,7 @@
 ---
 date: '2025-03-10T19:21:18+08:00'
 draft: false
-title: 'VPS 简评：Claw 老 7 刀日本东京软银线路'
+title: 'VPS 简评：Claw 老 7 刀日本东京软银 VPS（Claw 独立云服务器 - 1C / 1G / 20G / 500G）'
 categories: [VPS]
 tags: [VPS,日本VPS,VPS简评]
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T19:21:18+08:00'
 draft: false
-title: 'VPS 简评：ZgoCloud 美国 9929&CMIN2'
+title: 'VPS 简评：ZgoCloud 美国 VPS 9929&CMIN2（Los Angeles Intel Performance VPS -Specials - Lite）'
 categories: [VPS]
 tags: [VPS,美国VPS,VPS简评]
 ---
