@@ -6,7 +6,7 @@ categories: [VPS]
 tags: [VPS,日本VPS]
 ---
 
-## 总揽
+## 总结
 
 ![](./0.png)
 
