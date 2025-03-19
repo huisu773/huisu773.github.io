@@ -1,5 +1,5 @@
 ---
-date: '2025-03-19'
+date: '2025-03-19T12:00:00+08:00'
 draft: false
 title: 'VPS 总结：日本 CN2 GIA/Softbank/IIJ 线路延迟丢包数据'
 categories: [VPS]

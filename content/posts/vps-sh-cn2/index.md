@@ -1,5 +1,5 @@
 ---
-date: '2025-03-20'
+date: '2025-03-19T19:00:00+08:00'
 draft: false
 title: '上海 CN2 NAT 测试'
 categories: [VPS]
