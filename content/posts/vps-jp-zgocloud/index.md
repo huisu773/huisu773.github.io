@@ -1,6 +1,6 @@
 ---
 date: '2025-03-01T19:21:18+08:00'
-draft: false
+draft: true
 title: 'VPS 简评：ZgoCloud 日本大阪 IIJ VPS（Osaka AMD Ryzen9 Performance VPS - Specials - Lite ）'
 categories: [VPS]
 tags: [VPS,日本VPS,VPS简评]

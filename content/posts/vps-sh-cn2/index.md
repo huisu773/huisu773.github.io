@@ -1,6 +1,6 @@
 ---
 date: '2025-03-19T19:00:00+08:00'
-draft: false
+draft: true
 title: '上海 CN2 NAT 测试'
 categories: [VPS]
 tags: [VPS,上海VPS]

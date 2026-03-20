@@ -1,6 +1,6 @@
 ---
 date: '2025-01-23'
-draft: false
+draft: true
 title: '使用 ImageMagick 批量裁剪图片白边'
 categories: [Tool]
 tags: [Tool,ImageMagick,图片]

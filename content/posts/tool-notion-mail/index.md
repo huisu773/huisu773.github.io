@@ -1,6 +1,6 @@
 ---
 date: '2025-03-13'
-draft: false
+draft: true
 title: 'Notion Mail 初见'
 categories: [Tool]
 tags: [Tool,邮件]

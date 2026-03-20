@@ -1,6 +1,6 @@
 ---
 date: '2025-01-23'
-draft: false
+draft: true
 title: '创建 Electron 应用并使用 Github Action 构建全平台应用'
 categories: [Tool]
 tags: [Tool,Electron,编程]
